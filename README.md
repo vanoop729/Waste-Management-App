@@ -1,2 +1,2 @@
 # Waste-Management-App
-An app to donate food, books and clothes.
+An android app to donate food, books and clothes to orphanage / old age homes.
